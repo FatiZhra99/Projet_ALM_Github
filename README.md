@@ -39,4 +39,4 @@ Limites à garder en tête:
 •	Le SCR est simplifié et la valorisation se fait en univers risque-neutre : les résultats servent à comparer des options, pas à fixer un capital réglementaire.
 
 Livrables:
-rapport_ALM.pdf (rapport complet), donnees_ALM.xlsx, generate_data.py, modele_alm.py, README.md et 6 figures.
+rapport_ALM.pdf (rapport complet), donnees_ALM_NV.xlsx, modele_alm.py.
