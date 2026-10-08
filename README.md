@@ -4,7 +4,7 @@ Gestion actif-passif d'un assureur vie, fonds en euros
 Objectif:
 Évaluer si un assureur vie, qui garantit un taux minimum à ses assurés et les laisse libres de racheter leur contrat, est bien protégé contre les variations de taux, de marchés et de rachats. L'actif de 1 000 M€ (obligations, actions, immobilier, trésorerie) finance 900 M€ de provisions mathématiques réparties en 4 générations de contrats (taux garantis de 0 % à 2,5 %).
 Ce qui a été réalisé:
-1.	Création des données : un classeur Excel synthétique avec 40 obligations, des actions, de l'immobilier, 400 groupes de contrats, une courbe des taux, un historique 2005-2025 et 27 hypothèses modifiables.
+1.	Les données : un classeur Excel synthétique avec 40 obligations, des actions, de l'immobilier, 400 groupes de contrats, une courbe des taux, un historique 2005-2025 et 27 hypothèses modifiables.
 2.	Modèle de projection : simulation de 2 000 scénarios économiques sur 50 ans (taux Hull-White, actions, immobilier), avec participation aux bénéfices, provision pour participation aux excédents et rachats qui dépendent de l'écart entre taux concurrent et taux servi.
 3.	Valorisation : calcul de la valeur économique des fonds propres (NAV) et du coût des garanties (TVOG).
 4.	Analyse des risques : analyse de l'adossement actif/passif, 9 stress tests et calcul d'un SCR simplifié.
